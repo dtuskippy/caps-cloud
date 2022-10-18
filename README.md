@@ -1,4 +1,4 @@
-# Caps Cloud -- Code Challenge 19
+# Caps Cloud -- Lab 19
 
 ## Author: Alan Chelko
 
